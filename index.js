@@ -18,3 +18,4 @@ console.log(`The abbreviation for ${language} is ${str+str1}.`)
 
 
 //d) Just for fun, try chaining 3 or more methods together, and then print the result.
+console.log(language.replace('J','L').toUpperCase().replace('S',''))
